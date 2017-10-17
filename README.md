@@ -1,4 +1,4 @@
-# Image Processing and Computer Vision
+# Dartboard Detector
 A dartboard detector written in C++ in collaboration with joromybouk.
 Makes use of a Hough transform for shape detection with a Sobel filter used for edge detection, implementations are included.
 Also used Viola-Jones and SURF for detecting areas of interest.
